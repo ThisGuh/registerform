@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/registerform/static/css/main.24983f43.chunk.css",
+    "main.js": "/registerform/static/js/main.40b9c3a3.chunk.js",
+    "main.js.map": "/registerform/static/js/main.40b9c3a3.chunk.js.map",
+    "runtime-main.js": "/registerform/static/js/runtime-main.dcd3a9f3.js",
+    "runtime-main.js.map": "/registerform/static/js/runtime-main.dcd3a9f3.js.map",
+    "static/js/2.c7482f5b.chunk.js": "/registerform/static/js/2.c7482f5b.chunk.js",
+    "static/js/2.c7482f5b.chunk.js.map": "/registerform/static/js/2.c7482f5b.chunk.js.map",
+    "index.html": "/registerform/index.html",
+    "precache-manifest.f35607664cdd6b8f9e05742c3c5ce77f.js": "/registerform/precache-manifest.f35607664cdd6b8f9e05742c3c5ce77f.js",
+    "service-worker.js": "/registerform/service-worker.js",
+    "static/css/main.24983f43.chunk.css.map": "/registerform/static/css/main.24983f43.chunk.css.map"
+  }
+}
